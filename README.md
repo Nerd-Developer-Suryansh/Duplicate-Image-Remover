@@ -86,6 +86,6 @@ git clone https://github.com/your-repo/duplicate-image-remover.git
 
 👨‍💻 **Invented by:** Suryansh Niranjan  
 
-🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)** _(Replace with actual links!)_  
+🔗 **Connect with me on [LinkedIn](https://www.linkedin.com/in/suryansh-niranjan-729606312/) | [GitHub](https://github.com/Nerd-Developer-Suryansh)** _(Replace with actual links!)_  
 
 ---
